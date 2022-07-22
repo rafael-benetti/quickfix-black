@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Tempo de geração: 22-Jul-2022 às 05:44
+-- Tempo de geração: 22-Jul-2022 às 18:34
 -- Versão do servidor: 10.4.24-MariaDB
 -- versão do PHP: 7.4.29
 
@@ -42,8 +42,11 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `firstname`, `lastname`, `email`, `password`, `created_at`, `updated_at`) VALUES
-(8, 'RAFAEL', 'BENETTI', 'marketing@blackenter.com.br', '$2y$10$BOCZMf/zBl12zmAu8MVdE.qH5ZROMf1GCPF9vSIOgNQF1c.0DsRYG', '2022-07-20 09:15:07', '2022-07-21 13:39:31'),
-(16, 'Rafael', 'rafatattoo', 'sdti@blackenter.com.br', '$2y$10$gJ9jh8B2SqMrKis7ALl7CeFOPR5Zx.MP1LElNN2XOPxhj6VMp1nzm', '2022-07-21 15:18:03', '0000-00-00 00:00:00');
+(8, 'RAFAEL', 'BENETTI', 'marketing@blackenter.com.br', '$2y$10$jo8B5Dpx3wtzmZ1EogtesOgEpSZpac9lmpXx/uxMk1azAICra6tEa', '2022-07-20 09:15:07', '2022-07-22 11:22:21'),
+(16, 'Rafael', 'rafatattoo', 'sdti@blackenter.com.br', '$2y$10$gJ9jh8B2SqMrKis7ALl7CeFOPR5Zx.MP1LElNN2XOPxhj6VMp1nzm', '2022-07-21 15:18:03', '0000-00-00 00:00:00'),
+(17, 'rafael', 'benetti', 'adm@blackenter.com.br', '$2y$10$elSb4OBxv7jpaEEiEY7gZu/059.R6Cgx9cikw0KKf43K8kpabtN/S', '2022-07-22 10:41:57', '0000-00-00 00:00:00'),
+(18, 'rafael', 'benetti', 'contasto@blackenter.com.br', '$2y$10$Al9KNrLBnLBR6XY1/GoB2eZznhWg/y6QfDdTfTJy1fH3hNFB5Ve7S', '2022-07-22 10:43:03', '0000-00-00 00:00:00'),
+(19, 'rafael', 'benetti', 'admd@blackenter.com.br', '$2y$10$TB6J6y/qCneJqsJHGxx7W.w3mJwYjeORP1oxHZADtbHwRiF9o8yWW', '2022-07-22 10:44:37', '0000-00-00 00:00:00');
 
 -- --------------------------------------------------------
 
@@ -58,28 +61,22 @@ CREATE TABLE `valores` (
   `updated_at` datetime NOT NULL,
   `leitura` varchar(128) NOT NULL,
   `pedidos` int(11) NOT NULL,
-  `loja_id` int(11) NOT NULL
+  `loja_id` int(11) NOT NULL,
+  `data_entrada` date DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
 -- Extraindo dados da tabela `valores`
 --
 
-INSERT INTO `valores` (`id`, `valor`, `created_at`, `updated_at`, `leitura`, `pedidos`, `loja_id`) VALUES
-(40, 22222, '2022-07-19 15:26:35', '0000-00-00 00:00:00', 'Cadastro de estoque', 2, 0),
-(41, -4, '2022-07-21 15:26:44', '0000-00-00 00:00:00', 'Tickets:4 Time:2001-05-02 14:37:40 TT130560 Device=06', 0, 0),
-(42, 1, '2022-07-21 15:30:43', '0000-00-00 00:00:00', 'Cadastro de estoque', 1, 0),
-(43, -4, '2022-07-21 15:36:39', '0000-00-00 00:00:00', 'Tickets:4 Time:2001-05-02 14:37:40 TT130560 Device=06', 0, 0),
-(44, -4, '2022-07-21 15:36:41', '0000-00-00 00:00:00', 'Tickets:4 Time:2001-05-02 14:37:40 TT130560 Device=06', 0, 0),
-(45, -4, '2022-07-21 15:36:45', '0000-00-00 00:00:00', 'Tickets:4 Time:2001-05-02 14:37:40 TT130560 Device=06', 0, 0),
-(46, -4, '2022-07-21 15:36:47', '0000-00-00 00:00:00', 'Tickets:4 Time:2001-05-02 14:37:40 TT130560 Device=06', 0, 0),
-(47, -4, '2022-07-21 15:36:52', '0000-00-00 00:00:00', 'Tickets:4 Time:2001-05-02 14:37:40 TT130560 Device=06', 0, 0),
-(48, -4, '2022-07-21 15:36:59', '0000-00-00 00:00:00', 'Tickets:4 Time:2001-05-02 14:37:40 TT130560 Device=06', 0, 0),
-(49, -4, '2022-07-21 15:37:30', '0000-00-00 00:00:00', 'Tickets:4 Time:2001-05-02 14:37:40 TT130560 Device=06', 0, 0),
-(50, -22, '2022-07-21 20:10:41', '0000-00-00 00:00:00', 'Tickets:22 Time:2001-05-02 14:37:40 TT130560 Device=06', 0, 0),
-(51, -22, '2022-07-19 20:10:49', '0000-00-00 00:00:00', 'Tickets:22 Time:2001-05-02 14:37:40 TT130560 Device=06', 0, 0),
-(52, 2, '2022-07-21 22:39:34', '0000-00-00 00:00:00', 'Cadastro de estoquee', 2, 0),
-(53, 1000, '2022-07-21 22:43:51', '0000-00-00 00:00:00', 'Estoque Atualizado', 88226, 0);
+INSERT INTO `valores` (`id`, `valor`, `created_at`, `updated_at`, `leitura`, `pedidos`, `loja_id`, `data_entrada`) VALUES
+(40, 0, '2022-07-19 15:26:35', '0000-00-00 00:00:00', 'Cadastro de estoque', 2, 0, '2022-07-22'),
+(41, 222, '2022-07-20 00:00:00', '0000-00-00 00:00:00', 'Tickets:4 Time:2001-05-02 14:37:40 TT130560 Device=06', 0, 0, '2022-07-19'),
+(42, 333, '2022-07-21 15:30:43', '0000-00-00 00:00:00', 'Cadastro de estoque', 1, 0, '2022-07-21'),
+(43, 111, '2022-07-19 00:00:00', '0000-00-00 00:00:00', 'Tickets:4 Time:2001-05-02 14:37:40 TT130560 Device=06', 0, 0, '2022-07-20'),
+(64, 2, '2022-07-22 11:12:59', '0000-00-00 00:00:00', 'Estoque Atualizado', 2, 0, NULL),
+(65, -4, '2022-07-21 11:18:42', '0000-00-00 00:00:00', 'Tickets:4 Time:2000-05-02 14:37:40 TT130560 Device=06', 0, 0, '2022-07-22'),
+(66, -4, '2022-07-22 11:19:11', '0000-00-00 00:00:00', 'Tickets:4 Time:2001-04-02 14:37:40 TT130560 Device=06', 0, 0, '2022-07-22');
 
 --
 -- Índices para tabelas despejadas
@@ -105,13 +102,13 @@ ALTER TABLE `valores`
 -- AUTO_INCREMENT de tabela `users`
 --
 ALTER TABLE `users`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=17;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=20;
 
 --
 -- AUTO_INCREMENT de tabela `valores`
 --
 ALTER TABLE `valores`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=54;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=67;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
