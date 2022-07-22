@@ -52,7 +52,7 @@
 
           <div class="row">
             <div class="col-12 col-sm-4">
-              <button type="submit" class="btn btn-primary">Salvar</button>
+              <button type="submit" class="btn btn-outline-dark ml-sm-2 mb-2">Salvar</button>
             </div>
 
           </div>
