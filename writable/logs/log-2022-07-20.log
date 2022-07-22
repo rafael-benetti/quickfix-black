@@ -1,0 +1,111 @@
+CRITICAL - 2022-07-20 08:26:26 --> Undefined variable: session
+#0 /var/www/html/rafa/app/Controllers/Dashboard.php(59): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(910): App\Controllers\Dashboard->atualizaEstoque()
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-20 08:27:41 --> Undefined variable: session
+#0 /var/www/html/rafa/app/Controllers/Dashboard.php(59): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(910): App\Controllers\Dashboard->atualizaEstoque()
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-20 08:29:08 --> Undefined variable: session
+#0 /var/www/html/rafa/app/Controllers/Dashboard.php(59): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(910): App\Controllers\Dashboard->atualizaEstoque()
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-20 09:24:19 --> Call to a member function setFlashdata() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\User->atualizaEstoque()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-20 09:31:11 --> Call to a member function setFlashdata() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Dashboard->atualizaEstoque()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-20 09:45:29 --> Call to a member function setFlashdata() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\User->atualizaEstoque()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-20 09:47:09 --> Call to a member function setFlashdata() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\User->atualizaEstoque()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-20 09:47:21 --> Call to a member function setFlashdata() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\User->atualizaEstoque()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-20 10:05:57 --> Too few arguments to function App\Controllers\Users::index(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-20 10:06:01 --> Too few arguments to function App\Controllers\Users::index(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-20 10:06:04 --> Too few arguments to function App\Controllers\Users::index(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-20 10:06:11 --> Too few arguments to function App\Controllers\Users::index(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-20 10:06:56 --> Too few arguments to function App\Controllers\Users::index(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-20 10:06:57 --> Too few arguments to function App\Controllers\Users::index(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-20 10:06:58 --> Too few arguments to function App\Controllers\Users::index(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-20 10:06:58 --> Too few arguments to function App\Controllers\Users::index(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-20 10:06:58 --> Too few arguments to function App\Controllers\Users::index(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-20 11:08:18 --> Call to a member function setFlashdata() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->register()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}

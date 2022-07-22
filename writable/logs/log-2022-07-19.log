@@ -1,0 +1,702 @@
+CRITICAL - 2022-07-19 09:01:45 --> file_get_contents(C:\xampp\htdocs\app\Views\template\debug.css): failed to open stream: No such file or directory
+in APPPATH\Views\template\header.php on line 8.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\app\\Views\\template\\debug.css): failed to open stream: No such file or directory', 'APPPATH\\Views\\template\\header.php', 8, [])
+ 2 APPPATH\Views\template\header.php(8): file_get_contents('APPPATH\\Views\\template\\debug.css')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\template\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header', [], true)
+ 6 APPPATH\Controllers\Users.php(10): view('template/header', [])
+ 7 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Users->index()
+ 8 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-19 09:02:39 --> file_get_contents(C:\xampp\htdocs\app\Views\template\debug.css): failed to open stream: No such file or directory
+in APPPATH\Views\template\header.php on line 8.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\app\\Views\\template\\debug.css): failed to open stream: No such file or directory', 'APPPATH\\Views\\template\\header.php', 8, [])
+ 2 APPPATH\Views\template\header.php(8): file_get_contents('APPPATH\\Views\\template\\debug.css')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\template\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header', [], true)
+ 6 APPPATH\Controllers\Users.php(11): view('template/header', [])
+ 7 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Users->index()
+ 8 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-19 09:02:40 --> file_get_contents(C:\xampp\htdocs\app\Views\template\debug.css): failed to open stream: No such file or directory
+in APPPATH\Views\template\header.php on line 8.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\app\\Views\\template\\debug.css): failed to open stream: No such file or directory', 'APPPATH\\Views\\template\\header.php', 8, [])
+ 2 APPPATH\Views\template\header.php(8): file_get_contents('APPPATH\\Views\\template\\debug.css')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\template\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header', [], true)
+ 6 APPPATH\Controllers\Users.php(11): view('template/header', [])
+ 7 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Users->index()
+ 8 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-19 09:02:41 --> file_get_contents(C:\xampp\htdocs\app\Views\template\debug.css): failed to open stream: No such file or directory
+in APPPATH\Views\template\header.php on line 8.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\app\\Views\\template\\debug.css): failed to open stream: No such file or directory', 'APPPATH\\Views\\template\\header.php', 8, [])
+ 2 APPPATH\Views\template\header.php(8): file_get_contents('APPPATH\\Views\\template\\debug.css')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\template\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header', [], true)
+ 6 APPPATH\Controllers\Users.php(11): view('template/header', [])
+ 7 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Users->index()
+ 8 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-19 09:02:41 --> file_get_contents(C:\xampp\htdocs\app\Views\template\debug.css): failed to open stream: No such file or directory
+in APPPATH\Views\template\header.php on line 8.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\app\\Views\\template\\debug.css): failed to open stream: No such file or directory', 'APPPATH\\Views\\template\\header.php', 8, [])
+ 2 APPPATH\Views\template\header.php(8): file_get_contents('APPPATH\\Views\\template\\debug.css')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\template\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header', [], true)
+ 6 APPPATH\Controllers\Users.php(11): view('template/header', [])
+ 7 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Users->index()
+ 8 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-19 09:02:41 --> file_get_contents(C:\xampp\htdocs\app\Views\template\debug.css): failed to open stream: No such file or directory
+in APPPATH\Views\template\header.php on line 8.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\app\\Views\\template\\debug.css): failed to open stream: No such file or directory', 'APPPATH\\Views\\template\\header.php', 8, [])
+ 2 APPPATH\Views\template\header.php(8): file_get_contents('APPPATH\\Views\\template\\debug.css')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\template\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header', [], true)
+ 6 APPPATH\Controllers\Users.php(11): view('template/header', [])
+ 7 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Users->index()
+ 8 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-19 09:02:42 --> file_get_contents(C:\xampp\htdocs\app\Views\template\debug.css): failed to open stream: No such file or directory
+in APPPATH\Views\template\header.php on line 8.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\app\\Views\\template\\debug.css): failed to open stream: No such file or directory', 'APPPATH\\Views\\template\\header.php', 8, [])
+ 2 APPPATH\Views\template\header.php(8): file_get_contents('APPPATH\\Views\\template\\debug.css')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\template\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header', [], true)
+ 6 APPPATH\Controllers\Users.php(11): view('template/header', [])
+ 7 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Users->index()
+ 8 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-19 09:06:21 --> file_get_contents(C:\xampp\htdocs\app\Views\template\debug.css): failed to open stream: No such file or directory
+in APPPATH\Views\template\header.php on line 8.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\app\\Views\\template\\debug.css): failed to open stream: No such file or directory', 'APPPATH\\Views\\template\\header.php', 8, [])
+ 2 APPPATH\Views\template\header.php(8): file_get_contents('APPPATH\\Views\\template\\debug.css')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\template\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header', [], true)
+ 6 APPPATH\Controllers\Users.php(11): view('template/header', [])
+ 7 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Users->index()
+ 8 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-19 09:57:19 --> noauth filter must have a matching alias defined.
+in SYSTEMPATH\Filters\Filters.php on line 340.
+ 1 SYSTEMPATH\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('noauth')
+ 2 SYSTEMPATH\CodeIgniter.php(431): CodeIgniter\Filters\Filters->enableFilter('noauth', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-19 09:59:05 --> noauth filter must have a matching alias defined.
+in SYSTEMPATH\Filters\Filters.php on line 340.
+ 1 SYSTEMPATH\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('noauth')
+ 2 SYSTEMPATH\CodeIgniter.php(431): CodeIgniter\Filters\Filters->enableFilter('noauth', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-19 14:22:52 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:29:01 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:29:01 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:29:01 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:29:02 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:29:02 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:29:03 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(94): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->register()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:29:03 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:29:05 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(94): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->register()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:29:05 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:29:07 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:30:24 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:30:25 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:30:25 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:30:25 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:30:26 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:30:26 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:30:26 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:30:26 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:30:26 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:30:26 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:30:27 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:30:38 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:31:04 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:31:05 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:31:05 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:31:06 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:31:06 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:31:06 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:31:06 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:31:06 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:31:06 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:31:07 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:31:07 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:31:07 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:31:07 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:31:07 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:31:07 --> Invalid file: templates/header.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Users.php(42): view('templates/heade...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-19 14:36:09 --> Unknown column 'firstname' in 'field list'
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(330): mysqli->query('INSERT INTO `us...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2206): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(722): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(550): CodeIgniter\Model->insert(Array, false)
+#6 C:\xampp\htdocs\app\Controllers\Users.php(85): CodeIgniter\Model->save(Array)
+#7 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->register()
+#8 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#9 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-07-19 14:37:32 --> Unknown column 'firstname' in 'field list'
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(330): mysqli->query('INSERT INTO `us...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2206): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(722): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(550): CodeIgniter\Model->insert(Array, false)
+#6 C:\xampp\htdocs\app\Controllers\Users.php(85): CodeIgniter\Model->save(Array)
+#7 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->register()
+#8 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#9 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-07-19 14:49:34 --> Duplicate entry '0' for key 'id'
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(330): mysqli->query('INSERT INTO `us...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2206): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(722): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(550): CodeIgniter\Model->insert(Array, false)
+#6 C:\xampp\htdocs\app\Controllers\Users.php(85): CodeIgniter\Model->save(Array)
+#7 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Users->register()
+#8 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#9 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-07-19 14:54:08 --> session_start(): Failed to decode session object. Session has been destroyed
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'session_start()...', 'C:\\xampp\\htdocs...', 1002, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Session\Session.php(1002): session_start()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Session\Session.php(238): CodeIgniter\Session\Session->startSession()
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Config\Services.php(773): CodeIgniter\Session\Session->start()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Config\BaseService.php(123): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Config\Services.php(754): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(879): CodeIgniter\Config\Services::session()
+#7 C:\xampp\htdocs\app\Filters\Noauth.php(12): session()
+#8 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Filters\Filters.php(162): App\Filters\Noauth->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#9 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(376): CodeIgniter\Filters\Filters->run('/', 'before')
+#10 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-07-19 20:48:36 --> Undefined variable: qtde
+#0 /var/www/html/rafa/app/Views/user.php(7): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/View/View.php(236): include('/var/www/html/r...')
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/Common.php(1071): CodeIgniter\View\View->render()
+#3 /var/www/html/rafa/app/Controllers/User.php(11): view()
+#4 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(910): App\Controllers\User->index()
+#5 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-19 20:48:41 --> Undefined variable: qtde
+#0 /var/www/html/rafa/app/Views/user.php(7): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/View/View.php(236): include('/var/www/html/r...')
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/Common.php(1071): CodeIgniter\View\View->render()
+#3 /var/www/html/rafa/app/Controllers/User.php(11): view()
+#4 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(910): App\Controllers\User->index()
+#5 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-19 20:49:19 --> Undefined variable: qtde
+#0 /var/www/html/rafa/app/Views/user.php(7): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/View/View.php(236): include('/var/www/html/r...')
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/Common.php(1071): CodeIgniter\View\View->render()
+#3 /var/www/html/rafa/app/Controllers/User.php(11): view()
+#4 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(910): App\Controllers\User->index()
+#5 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-19 20:49:20 --> Undefined variable: qtde
+#0 /var/www/html/rafa/app/Views/user.php(7): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/View/View.php(236): include('/var/www/html/r...')
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/Common.php(1071): CodeIgniter\View\View->render()
+#3 /var/www/html/rafa/app/Controllers/User.php(11): view()
+#4 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(910): App\Controllers\User->index()
+#5 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-19 20:49:21 --> Undefined variable: qtde
+#0 /var/www/html/rafa/app/Views/user.php(7): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/View/View.php(236): include('/var/www/html/r...')
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/Common.php(1071): CodeIgniter\View\View->render()
+#3 /var/www/html/rafa/app/Controllers/User.php(11): view()
+#4 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(910): App\Controllers\User->index()
+#5 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-19 20:49:22 --> Undefined variable: qtde
+#0 /var/www/html/rafa/app/Views/user.php(7): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/View/View.php(236): include('/var/www/html/r...')
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/Common.php(1071): CodeIgniter\View\View->render()
+#3 /var/www/html/rafa/app/Controllers/User.php(11): view()
+#4 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(910): App\Controllers\User->index()
+#5 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-19 20:49:22 --> Undefined variable: qtde
+#0 /var/www/html/rafa/app/Views/user.php(7): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/View/View.php(236): include('/var/www/html/r...')
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/Common.php(1071): CodeIgniter\View\View->render()
+#3 /var/www/html/rafa/app/Controllers/User.php(11): view()
+#4 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(910): App\Controllers\User->index()
+#5 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-19 20:49:23 --> Undefined variable: qtde
+#0 /var/www/html/rafa/app/Views/user.php(7): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/View/View.php(236): include('/var/www/html/r...')
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/Common.php(1071): CodeIgniter\View\View->render()
+#3 /var/www/html/rafa/app/Controllers/User.php(11): view()
+#4 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(910): App\Controllers\User->index()
+#5 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-19 20:49:25 --> Undefined variable: qtde
+#0 /var/www/html/rafa/app/Views/user.php(7): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/View/View.php(236): include('/var/www/html/r...')
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/Common.php(1071): CodeIgniter\View\View->render()
+#3 /var/www/html/rafa/app/Controllers/User.php(11): view()
+#4 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(910): App\Controllers\User->index()
+#5 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-19 20:50:08 --> Class 'App\Controllers\ProductModel' not found
+#0 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(910): App\Controllers\User->index()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-19 20:50:29 --> Class 'App\Controllers\ProductModel' not found
+#0 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(910): App\Controllers\User->index()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-19 20:50:30 --> Class 'App\Controllers\ProductModel' not found
+#0 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(910): App\Controllers\User->index()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-19 20:50:30 --> Class 'App\Controllers\ProductModel' not found
+#0 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(910): App\Controllers\User->index()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-19 20:54:14 --> Cannot call constructor
+#0 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(882): App\Controllers\Users->__construct()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-19 20:54:19 --> Cannot call constructor
+#0 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(882): App\Controllers\Users->__construct()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-19 21:07:51 --> Undefined property: App\Controllers\User::$inout
+#0 /var/www/html/rafa/app/Controllers/User.php(26): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(910): App\Controllers\User->atualizaEstoque()
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-19 21:08:12 --> Undefined property: App\Controllers\User::$input
+#0 /var/www/html/rafa/app/Controllers/User.php(26): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(910): App\Controllers\User->atualizaEstoque()
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-19 21:15:13 --> Undefined variable: qtde
+#0 /var/www/html/rafa/app/Views/user.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/View/View.php(236): include('/var/www/html/r...')
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/Common.php(1071): CodeIgniter\View\View->render()
+#3 /var/www/html/rafa/app/Controllers/User.php(54): view()
+#4 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(910): App\Controllers\User->atualizaEstoque()
+#5 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-19 21:16:39 --> Undefined property: App\Controllers\User::$session
+#0 /var/www/html/rafa/app/Controllers/User.php(43): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(910): App\Controllers\User->atualizaEstoque()
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-19 21:17:09 --> Undefined property: App\Controllers\User::$session
+#0 /var/www/html/rafa/app/Controllers/User.php(43): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(910): App\Controllers\User->atualizaEstoque()
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-19 21:18:42 --> Undefined property: App\Controllers\User::$session
+#0 /var/www/html/rafa/app/Controllers/User.php(43): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(910): App\Controllers\User->atualizaEstoque()
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-19 21:21:10 --> Undefined offset: 1
+#0 /var/www/html/rafa/app/Controllers/User.php(34): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(910): App\Controllers\User->atualizaEstoque()
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-19 21:22:26 --> Too few arguments to function CodeIgniter\HTTP\RedirectResponse::to(), 0 passed in /var/www/html/rafa/app/Controllers/User.php on line 52 and at least 1 expected
+#0 /var/www/html/rafa/app/Controllers/User.php(52): CodeIgniter\HTTP\RedirectResponse->to()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(910): App\Controllers\User->atualizaEstoque()
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-19 21:22:58 --> syntax error, unexpected ';', expecting ')'
+#0 /var/www/html/rafa/vendor/codeigniter4/framework/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle()
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-19 21:23:03 --> syntax error, unexpected ';', expecting ')'
+#0 /var/www/html/rafa/vendor/codeigniter4/framework/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute()
+#1 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle()
+#2 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /var/www/html/rafa/vendor/codeigniter4/framework/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/rafa/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
