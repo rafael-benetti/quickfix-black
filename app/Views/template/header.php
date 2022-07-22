@@ -15,19 +15,25 @@
         <script type="text/javascript" src="https://cdn.datatables.net/v/bs4/jq-3.6.0/jszip-2.5.0/dt-1.12.1/b-2.2.3/b-colvis-2.2.3/b-html5-2.2.3/b-print-2.2.3/datatables.min.js"></script>
 
 
+        
   <script>
     $(document).ready(function() {
            $("#qrcode").focus();
       $('#dashlist').DataTable({
+        
         order: [['4', 'desc']],
                     dom: 'Bfrtip',
                       pageLength: 25,
                      buttons: [
-                        'excel', 'pdf', 'print'
+                        'excel', 'pdf'
                     ]
+                    
                 });
     });
+    
   </script>
+
+
     <script>
     $(document).ready(function() {
            $("#qrcode").focus();
@@ -36,7 +42,7 @@
                     dom: 'Bfrtip',
                       pageLength: 25,
                      buttons: [
-                        'excel', 'pdf', 'print'
+                        'excel', 'pdf'
                     ]
                 });
     });
@@ -331,6 +337,17 @@
     a {
       color: #0072ff;
     }
+
+    .pagination li.active {
+    background-color: #a0a0a0 !important;
+}
+.page-item.active .page-link {
+    z-index: 3;
+    color: #fff;
+    background-color: #a0a0a0 !important;
+    border-color: #a0a0a0 !important;
+}
+
   </style>
 
 </head>
@@ -341,7 +358,7 @@
   ?>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
-      <a class="navbar-brand" href="<?php echo base_url(); ?>/"><img style="width:50px" src="<?php echo base_url(); ?>/logo.png">Quickfix</a>
+      <a class="navbar-brand" href="<?php echo base_url(); ?>/"><img style="width:50px" src="<?php echo base_url(); ?>/public/logo.png"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>

@@ -50,10 +50,10 @@
     <table id="dash" class="table"  align="center">
         <thead>
             <tr>
-                <th>ID</th>
-                <th>VALOR</th>
-                <th>LEITURA</th>
-                <th>PEDIDO</th>
+            <th>ID</th>
+                <th>QUANTIDADE</th>
+                <th>CÓDIGO-QR</th>
+                <th>Nº PEDIDO</th>
                 <th>DATA</th>
 
             </tr>
@@ -71,17 +71,7 @@
             <?php } ?>
         </tbody>
    
-        
-        <tfoot>
-       <tr>
-                <th>ID</th>
-                <th>VALOR</th>
-                <th>LEITURA</th>
-                <th>PEDIDO</th>
-                <th>DATA</th>
 
-            </tr>
-        </tfoot>
     </table>
 
         </div>

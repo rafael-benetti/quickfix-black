@@ -29,7 +29,7 @@
       </div>
     <?php } ?>
 
-    <p><img style="width:300px" src="<?php echo base_url(); ?>/barcode.png"></p>
+    <p><img style="width:300px" src="<?php echo base_url(); ?>/public/barcode.png"></p>
 
     <!--INSERIR TABELA COM OS RESULTADOS DAS LEITURAS DO DIA -->
 
@@ -43,9 +43,9 @@
         <thead>
             <tr>
                 <th>ID</th>
-                <th>VALOR</th>
-                <th>LEITURA</th>
-                <th>PEDIDO</th>
+                <th>QUANTIDADE</th>
+                <th>CÓDIGO-QR</th>
+                <th>Nº PEDIDO</th>
                 <th>DATA</th>
 
             </tr>
@@ -63,17 +63,7 @@
             <?php } ?>
         </tbody>
    
-        
-        <tfoot>
-       <tr>
-                <th>ID</th>
-                <th>VALOR</th>
-                <th>LEITURA</th>
-                <th>PEDIDO</th>
-                <th>DATA</th>
 
-            </tr>
-        </tfoot>
     </table>
 
         </div>
